@@ -1,51 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://defridwiramdhan.github.io/Tugas/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://defridwiramdhan.github.io/Tugas/Statistik%20Deskriptif/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://defridwiramdhan.github.io/Tugas/Tugas%202%20-%20Mengukur%20Jarak/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://defridwiramdhan.github.io/Tugas/Tugas%203%20-%20Missing%20Value%20with%20KNN/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://defridwiramdhan.github.io/Tugas/DECISION%20TREE/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://defridwiramdhan.github.io/Tugas/Tugas%205%20-%20Clustering/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://defridwiramdhan.github.io/Tugas/Tugas%206%20-%20Fuzzy%20C-Means/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://defridwiramdhan.github.io/Tugas/Home/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://defridwiramdhan.github.io/Tugas/tugas/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://defridwiramdhan.github.io/Tugas/Numerical%20Solution/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://defridwiramdhan.github.io/Tugas/Eliminasi%20Gauss/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://defridwiramdhan.github.io/Tugas/Romberg/</loc>
-     <lastmod>2020-03-19</lastmod>
+     <lastmod>2020-04-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://defridwiramdhan.github.io/Tugas/richardson/</loc>
+     <lastmod>2020-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
